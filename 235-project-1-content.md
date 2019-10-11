@@ -10,12 +10,11 @@ Strategy, Tower Defense
 PC
 
 ## Story
-Your kingdom is under attack by a rival king and his army. You, the king, must raise your defenses by building structures like weapons and
-walls over multiple rounds to thwart his invasion.
+Your kingdom is under attack by a rival king and his army. You, the king, must raise your defenses by building structures like weapons and walls over multiple rounds to thwart his invasion.
 
 ## Aesthetics
 ### Graphics
-Cartoonish European middle-ages graphics
+Cartoonish European middle-ages themed graphics
 ### Sound
 Cartoon-y sound. Music will loop in the background, and various sound effects will play; i. e. building sound when making structures, sound
 of enemies charging, woosh of catapults and arrows, ticking of timers during build phases
