@@ -27,11 +27,13 @@ money they can spend on building the following defensive structures:
 - **Archer Tower**: Targets enemies individually and shoots them with arrows.
 - **Catapult**: Launches rocks that can hit multiple enemies at once.
 - **Moat**: Slows enemy movement significantly.
+
 During the enemy wave phases, a number of different kinds of enemies will spawn on one side of the screen and march to the other to
 attack your castle:
 - **Soldiers**: Normal troops.
 - **Horseback Troops**: High movement speed.
 - **Siege Engine**: Knocks walls down, does more damage to your castle than other troops.
+
 Defeating enemies will give you money to buy more structures. Survive ten enemy waves and you win!
 ### Controls
 Mouse to select buildings and place them.
