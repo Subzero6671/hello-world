@@ -43,8 +43,8 @@ The player will need to learn how to efficiently use their money to build the be
 best in which situations to manage the number and types of enemies they face.
 
 ## Screenshots
-![Tutorial Image]()
-![Gameplay Image]()
+![Tutorial Image](https://github.com/Subzero6671/hello-world/master/tutorial_image.jpg)
+![Gameplay Image](https://github.com/Subzero6671/hello-world/master/gameplay_image.jpg)
 
 ## About the Developer
 Will Petersen
