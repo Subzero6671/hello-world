@@ -14,10 +14,10 @@ Your kingdom is under attack by a rival king and his army. You, the king, must r
 
 ## Aesthetics
 ### Graphics
-Cartoonish European middle-ages themed graphics
+Cartoonish European middle-ages themed graphics.
 ### Sound
 Cartoon-y sound. Music will loop in the background, and various sound effects will play; i. e. building sound when making structures, sound
-of enemies charging, woosh of catapults and arrows, ticking of timers during build phases
+of enemies charging, woosh of catapults and arrows, ticking of timers during build phases.
 
 ## Gameplay
 ### Mechanics
@@ -49,5 +49,7 @@ best in which situations to manage the number and types of enemies they face.
 
 ## About the Developer
 Will Petersen
+
 Second Year Game Development and Design Major
+
 C# coding, Maya modeling, general game design
