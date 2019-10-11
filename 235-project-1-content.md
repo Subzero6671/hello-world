@@ -44,7 +44,7 @@ best in which situations to manage the number and types of enemies they face.
 
 ## Screenshots
 ![Tutorial Image](https://github.com/Subzero6671/hello-world/blob/master/tutorial_image.jpg)
-![Gameplay Image](https://github.com/Subzero6671/hello-world/blob/master/gameplay_image.jpg)
+![Gameplay Image](https://github.com/Subzero6671/hello-world/blob/master/game_image.jpg)
 
 ## About the Developer
 Will Petersen
